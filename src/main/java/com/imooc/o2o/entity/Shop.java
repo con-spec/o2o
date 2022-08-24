@@ -1,6 +1,7 @@
 package com.imooc.o2o.entity;
 
-import javax.xml.crypto.Data;
+
+import java.util.Date;
 
 /**
  * @Author: zxw
@@ -14,12 +15,12 @@ public class Shop {
     private String phone;
     private String shopImg;
     private String priority;
-    private Data createTime;
-    private Data lastEditTime;
+    private Date createTime;
+    private Date lastEditTime;
     //-1.不可用 0.审核中 1.可用
     private Integer enableStatus;
     //超级管理员给店家的提醒
-    private String adice;
+    private String advice;
     private Area area;
     private PersonInfo owner;
     private ShopCategory shopCategory;
@@ -80,19 +81,19 @@ public class Shop {
         this.priority = priority;
     }
 
-    public Data getCreateTime() {
+    public Date getCreateTime() {
         return createTime;
     }
 
-    public void setCreateTime(Data createTime) {
+    public void setCreateTime(Date createTime) {
         this.createTime = createTime;
     }
 
-    public Data getLastEditTime() {
+    public Date getLastEditTime() {
         return lastEditTime;
     }
 
-    public void setLastEditTime(Data lastEditTime) {
+    public void setLastEditTime(Date lastEditTime) {
         this.lastEditTime = lastEditTime;
     }
 
@@ -105,11 +106,11 @@ public class Shop {
     }
 
     public String getAdice() {
-        return adice;
+        return advice;
     }
 
     public void setAdice(String adice) {
-        this.adice = adice;
+        this.advice = adice;
     }
 
     public Area getArea() {
