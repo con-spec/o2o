@@ -1,0 +1,11 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(·Æî≈
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûââù
+?
+java:S1905")Remove this unnecessary cast to "Logger".(Àû—ø
+^
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ëÅ§°
+\
+java:S1128"FRemove this unused import 'org.apache.commons.collections.ArrayStack'.(¶à¿Ä

@@ -1,0 +1,12 @@
+
+o
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜î°ñ
+^
+java:S1192+"HDefine a constant instead of duplicating this literal "success" 5 times.(Áî×
+b
+java:S1192,"GDefine a constant instead of duplicating this literal "errMsg" 3 times.(Ûç€ıÿÿÿÿ
+:
+java:S3751""Make this method non "private".(Œ®¹øşÿÿÿÿ
+`
+java:S4488 "JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¿­Ó
+V	java:S125X"<This block of commented-out lines of code should be removed.(„€Èˆøÿÿÿÿ

@@ -1,0 +1,10 @@
+2022-09-07 10:57:57.084 [main] ERROR com.imooc.o2o.util.ImageUtil - javax.imageio.IIOException: Can't read input file!
+2022-09-07 10:59:04.382 [main] ERROR com.imooc.o2o.util.ImageUtil - javax.imageio.IIOException: Can't read input file!
+2022-09-07 11:19:12.104 [main] ERROR com.imooc.o2o.util.ImageUtil - javax.imageio.IIOException: Can't read input file!
+2022-09-07 11:31:07.346 [main] ERROR com.imooc.o2o.util.ImageUtil - javax.imageio.IIOException: Can't read input file!
+2022-09-07 11:32:02.432 [main] ERROR com.imooc.o2o.util.ImageUtil - javax.imageio.IIOException: Can't read input file!
+2022-09-07 11:32:47.870 [main] ERROR com.imooc.o2o.util.ImageUtil - javax.imageio.IIOException: Can't read input file!
+2022-09-07 11:40:15.218 [main] ERROR com.imooc.o2o.util.ImageUtil - javax.imageio.IIOException: Can't read input file!
+2022-09-07 11:42:34.728 [main] ERROR com.imooc.o2o.util.ImageUtil - java.io.FileNotFoundException: D:\Image2\upload\images\item\shop\31\2022090711423446119.jpg (系统找不到指定的路径。)
+2022-09-07 11:46:25.322 [main] ERROR com.imooc.o2o.util.ImageUtil - java.io.FileNotFoundException: D:\Image\upload\images\item\shop\32\2022090711462569619.jpg (系统找不到指定的路径。)
+2022-09-07 11:52:08.334 [main] ERROR com.imooc.o2o.util.ImageUtil - java.io.FileNotFoundException: D:\Image\upload\images\item\shop\33\2022090711520815079.jpg (系统找不到指定的路径。)
